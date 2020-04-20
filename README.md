@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 Desarrollo
 
 ## How To Contribute
- Quien contribuye
+ Quien contribuye PULL
  
  ###Copyright
 2020 Git.Training
