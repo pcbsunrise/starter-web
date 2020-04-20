@@ -13,3 +13,6 @@ Desarrollo
 
 ## How To Contribute
  Quien contribuye
+ 
+ ###Copyright
+2020 Git.Training
